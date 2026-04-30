@@ -7,7 +7,7 @@ numpy
 pandas
 opencv-python-headless
 torchxrayvision
-pytorch-grad-cam
+grad-cam
 pydicom
 Pillow
 scikit-image
