@@ -6,8 +6,8 @@ import pandas as pd
 from inference import load_model, predict, build_cam
 from utils import load_image_any, to_display, overlay_heatmap
 
-st.set_page_config(page_title="AI Assistant for Radiology Images", layout="wide")
-st.title("AI Assistant for Radiology Images")
+st.set_page_config(page_title="Chest-Xray-AI-Assistant", layout="wide")
+st.title("Chest-Xray-AI-Assistant")
 st.caption("Educational demo. Not for clinical use.")
 
 
