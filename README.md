@@ -1,4 +1,4 @@
-# 🧠 AI Assistant for Radiology Images
+# 🧠Chest X-Ray AI Assistant
 
 An AI-powered web application for analyzing **chest X-ray images** using deep learning. The system predicts multiple possible pathologies and provides **Grad-CAM visual explanations** to highlight regions influencing the model’s decisions.
 
