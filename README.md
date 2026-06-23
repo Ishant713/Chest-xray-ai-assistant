@@ -20,6 +20,17 @@ It enables users to upload medical images and receive:
 * Visual explanations using Grad-CAM
 
 ---
+## Project Demo
+### Example 1 
+<img width="1615" height="787" alt="Screenshot 2026-06-24 003618" src="https://github.com/user-attachments/assets/ef015cb8-c316-42e5-a634-5ffb69c3cccc" />
+<img width="1795" height="669" alt="Screenshot 2026-06-24 003736" src="https://github.com/user-attachments/assets/2479f79a-182e-433c-a766-244c927fa4b4" />
+<img width="1685" height="775" alt="Screenshot 2026-06-24 003827" src="https://github.com/user-attachments/assets/141f4aa4-4a1b-449a-a62c-7cf60d74194a" />
+
+### Example 2
+<img width="1803" height="608" alt="Screenshot 2026-06-24 004026" src="https://github.com/user-attachments/assets/8c088dcd-01cc-42e1-b360-f9775dd9efbb" />
+<img width="1639" height="766" alt="Screenshot 2026-06-24 004038" src="https://github.com/user-attachments/assets/8ede8144-1084-471c-9b4b-b68fc7888f50" />
+<img width="1352" height="615" alt="Screenshot 2026-06-24 004052" src="https://github.com/user-attachments/assets/a91578c7-67e0-42ca-b80f-7e16cc9174f7" />
+
 
 ## ✨ Features
 
